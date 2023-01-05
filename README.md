@@ -1,7 +1,6 @@
 ![PacMen](https://simple.wikipedia.org/wiki/Pac-Man#/media/File:Pac_Man.svg)
 
 # PacMen Exercise
-
 ---
 ## Table of content
 
@@ -10,14 +9,14 @@
 3. [Future work](#future-work)
 4. [Licensing](#licensing)
 ---
-### Description
+## Description
 
 The Pacmen Exercise consist in creating a game in which you can add on the screen as many PacMen as you like, and then you can watch the Pacmen move around the screen and bounce whenever they hit the border of the screen. Keep in mind that when you add a new PacMan the position on the screen will be randomly selected, and also expect them to move at random speeds and directions.
 
 [[to top ⬆️]](#pacmen-exercise)
 
 ---
-### Usage
+## Usage
 
 * Click on `Add PacMan` button to add as many PacMan as you like.
 * Click on `Start Game` buttom to make the PacMen move.
@@ -25,7 +24,7 @@ The Pacmen Exercise consist in creating a game in which you can add on the scree
 [[to top ⬆️]](#pacmen-exercise)
 
 ---
-### Future work
+## Future work
 
 * Change the direction of the PacMan image when bouncing on the borders of the screen. Then PacMan should be looking to the direction of movement, whether is to the right or to the left direction.
 * Alternate between images of PacMan with the mouth open and close.
@@ -34,7 +33,7 @@ The Pacmen Exercise consist in creating a game in which you can add on the scree
 [[to top ⬆️]](#pacmen-exercise)
 
 ---
-### Licensing
+## Licensing
 
 MIT License
 
