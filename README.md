@@ -1,6 +1,6 @@
 # PacMen Exercise
 <img src="https://github.com/gespinosa28/PacMen/blob/main/images/PacMan1.png" align="center">
-![PacMen](https://github.com/gespinosa28/PacMen/blob/main/images/PacMan1.png)
+
 
 ---
 ## Table of content
