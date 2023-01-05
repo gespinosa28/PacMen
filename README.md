@@ -1,4 +1,4 @@
-![PacMen](https://simple.wikipedia.org/wiki/Pac-Man#/media/File:Pac_Man.svg)
+![PacMen](https://github.com/gespinosa28/PacMen/blob/main/images/PacMan1.png)
 
 # PacMen Exercise
 ---
