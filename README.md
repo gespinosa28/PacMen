@@ -3,7 +3,7 @@
 # PacMen Exercise
 
 ---
-### Table of content
+## Table of content
 
 1. [Description](#description)
 2. [Usage](#usage)
