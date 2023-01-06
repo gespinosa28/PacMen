@@ -14,7 +14,7 @@
 ---
 ## Description
 
-The Pacmen Exercise consist in creating a game in which you can add on the screen as many PacMen as you like, and then you can watch the Pacmen move around the screen and bounce whenever they hit the border of the screen. Keep in mind that when you add a new PacMan the position on the screen will be randomly selected, and also expect them to move at random speeds and directions.
+The Pacmen Exercise consists of creating a game in which you can add on the screen as many PacMen as you like. You can then you can watch the PacMen move around the screen and bounce whenever they hit the border of the screen. Keep in mind that when you add a new PacMan, the position on the screen will be randomly selected. Their speed and direction will also be random.
 
 [[to top ⬆️]](#pacmen-exercise)
 
@@ -22,16 +22,16 @@ The Pacmen Exercise consist in creating a game in which you can add on the scree
 ## Usage
 
 * Click on `Add PacMan` button to add as many PacMan as you like.
-* Click on `Start Game` buttom to make the PacMen move.
+* Click on `Start Game` button to make the PacMen move.
 
 [[to top ⬆️]](#pacmen-exercise)
 
 ---
 ## Future work
 
-* Change the direction of the PacMan image when bouncing on the borders of the screen. Then PacMan should be looking to the direction of movement, whether is to the right or to the left direction.
-* Alternate between images of PacMan with the mouth open and close.
-* Improve the look and feel of the webpage by changing the background color, and also by repositioning and changing the style of the buttons.
+* Change the direction of the PacMan image when bouncing on the borders of the screen. PacMan should then look in the same direction headed; either to the right or to the left of the screen.
+* Alternate between images of PacMan with its mouth open and mouth closed.
+* Improve the look and feel of the webpage by changing the background color, and also repositioning and changing the style of the buttons.
 
 [[to top ⬆️]](#pacmen-exercise)
 
